@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8' />
+    <title>Final Product Pitch</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <h1>A Guide for Pittsburgh College Foodies</h1>
+    <h2>The Final Product I Envision</h1>
+    <img src='images/book.png' width='75' alt='food guidebook'/>
+    <p>I want to create a platform for college students to find different restaurants, cafés, desert, and snack joints in the Pittsburgh area.
+    This website will serve as a one-stop shop to to find the perfect place to indulge any college foodie.
+    I hope that it will be a collaborative platform for college students to interact, share suggestions on menu items to order as well as their overall ratings of restaurants through a comments section.
+    <h2>Why I Want to Create This</h2>
+    <p>I am a Univeristy of Pittsburgh senior who is origininally from a suburb of Pittsburgh called Wexford.
+    Growing up, my family always loved exploring the city and its surrounding suburbs, lookimg for new and unique restaurants to try out.
+    We never really had one place online to be able to find a restaurant from an organized list.
+    I would like to present this idea to make it easier for people, especially college students, to be able to navigate the city and try out new and unique places and satisfy their foodie cravings.
+    </p>
+    <img src='images/BRGR.jpg' width='200' alt='A milkshake from BRGR'/>
+    <img src='images/Noodlehead.jpg' width='200' alt='Noodles from Noodlehead'/>
+    <img src='images/Primanti Brothers2.jpg' width='200' alt='Sandwich from Primanti brothers'/>
+    <img src='images/Brusters.jpg' width='233' height='133' alt='Ice Cream from Brusters'/>
+    <img src='images/Pamelas.jpg' width='200' alt='Hotcakes from Pamelas'/>
+    <img src='images/Istanbul Sofra.jpg' width='200' alt='meal from Istanbul Sofra'/>
+    <h2>Website Details</h2>
+    <div>In terms of dividing up the content, I envision a menu bar on the home page featuring the following categories:
+      <div>About Us
+      <strong>(for us to explain why and how we decided to create this platform)<strong></div>
+      <div>On a budget
+      <strong>(for college students who want affordable options)<strong></div>
+      <div>Payday Splurge
+      <strong>(for that expensive, boujee meal)<strong></div>
+      <div>Whatcha Hungry For?</div>
+      <strong>(featuring Breakfast, Brunch, Lunch, Dinner, Dessert, and light snack options)<strong></div>
+    </div>
+    <p>Once a foodie has selected from the menu bar, there will be a list of eating options that will come up based on the category.
+    There will be a link to the place's website if they have one, phone number, hours of operation, a map to view the place's location, and a few pictures of the restaurant and food they serve there.
+    There could also be a comments for each option for college students to leave reviews or suggestions on what to order.
+    </p>
+    <h2>Tasks and Roles</h2>
+    <p>These are a list of tasks that may be needed to launch our website:</p>
+    <ul>
+      <li>Figure out lists of restaurants for each menu bar category</li>
+      <li>Find information on each restaurant that will be featured</li>
+      <li>Create a theme for the website, incorporating design elements organization, alignment, contrast, etc.</li>
+      <li>Decide on common website colors, typeface, etc.</li>
+      <li>Draft an About Page discussing purpose of website and pictures of food and college students eating</li>
+      <li>Create Comments section for each restaurant</li>
+      <li>Draft Home Page with restaurants offering specials and deals for college students, grand openings, etc</li>
+    </ul>
